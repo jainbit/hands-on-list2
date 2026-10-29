@@ -30,7 +30,7 @@ Sample Output :
 harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 48b.c -o semaphore
 harsh@harshjain:~/hands-on-list2$ ./semaphore
-Counting semaphore id: 2, value: 2
+Counting semaphore id: 1, value: 2
 
 ============================================================================
 */

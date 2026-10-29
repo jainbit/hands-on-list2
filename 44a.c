@@ -30,7 +30,7 @@ Sample Output :
 harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 44a.c -o queue
 harsh@harshjain:~/hands-on-list2$ ./queue
-Received (type 49152): H�&V�
+Received (type 1): first message
 
 ============================================================================
 */

@@ -36,14 +36,14 @@ Sample Output :
 harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 42.c -o information
 harsh@harshjain:~/hands-on-list2$ ./information
-Access permission: 0
-UID: 0, GID: 10420224
-Last msg sent: Thu Jan  1 13:39:12 1970
-Last msg received: Sat May 26 00:54:48 4461240
-Last change: Wed Dec 27 03:37:42 27284
+Access permission: 644
+UID: 1000, GID: 1000
+Last msg sent: Thu Jan  1 05:30:00 1970
+Last msg received: Thu Jan  1 05:30:00 1970
+Last change: Tue Oct 27 07:36:50 2026
 Current size of queue (bytes): 0
 Number of messages: 0
-Max bytes allowed: 0
+Max bytes allowed: 16384
 PID of last msgsnd: 0, msgrcv: 0
 
 ============================================================================

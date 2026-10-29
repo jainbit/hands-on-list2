@@ -41,5 +41,9 @@ harsh@harshjain:~/hands-on-list2$ gcc 39.c -o waiting
 harsh@harshjain:~/hands-on-list2$ ./waiting
 No data within 10 seconds
 
+printf "hello through fifo\n" > files/fifo39
+
+Data available: hello through fifo
+
 ============================================================================
 */

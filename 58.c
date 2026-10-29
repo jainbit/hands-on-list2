@@ -31,8 +31,8 @@ Sample Output :
 harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 58.c -o multithread
 harsh@harshjain:~/hands-on-list2$ ./multithread
-Thread ID: 138962958022336
-Thread ID: 138962941236928
-Thread ID: 138962949629632
+Thread ID: 279296669905248
+Thread ID: 279296661451104
+Thread ID: 279296518123872
 ============================================================================
 */

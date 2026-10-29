@@ -30,7 +30,7 @@ Sample Output :
 harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 48a.c -o semaphore
 harsh@harshjain:~/hands-on-list2$ ./semaphore
-Binary semaphore id: 1, value: 1
+Binary semaphore id: 0, value: 1
 
 ============================================================================
 */

@@ -40,7 +40,7 @@ int main() {
         close(cfd);
     }
     return 0;
-}
+}   
 
 /*
 ============================================================================
@@ -49,7 +49,14 @@ Sample Output :
 harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 52a.c -o fork
 harsh@harshjain:~/hands-on-list2$ ./fork
-Concurrent server (fork) on port 8080
+Concurrent server (fork) on port 8080              ./client 127.0.0.1
+Child 20258 got: hello from client
 
+
+gcc 52b.c -o pthread -pthread
+./pthread
+
+Concurrent server (pthread) on port 8080
+Thread 276848904040800 got: hello from client
 ============================================================================
 */

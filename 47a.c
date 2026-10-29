@@ -28,5 +28,7 @@ harsh@harshjain:~/hands-on-list2$ gcc 47a.c -o memory
 harsh@harshjain:~/hands-on-list2$ ./memory
 Written: hello shared memory
 
+shmat - attach
+
 ============================================================================
 */

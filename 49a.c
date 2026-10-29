@@ -47,7 +47,7 @@ harsh@harshjain:~/hands-on-list2$ gcc 49a.c -o semaphore
 harsh@harshjain:~/hands-on-list2$ ./semaphore
 Waiting to enter critical section
 Inside critical section
-New ticket number: 1
+New ticket number: 3
 Left critical section
 
 ============================================================================

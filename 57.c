@@ -32,11 +32,11 @@ harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 57.c -o limitations
 harsh@harshjain:~/hands-on-list2$ ./limitations
 Max length of exec arguments: 2097152
-Max processes per user: 10155
+Max processes per user: 7545
 Clock ticks per second: 100
 Max open files: 524288
 Page size: 4096
-Total physical pages: 1145376
-Available physical pages: 181760
+Total physical pages: 865451
+Available physical pages: 28432
 ============================================================================
 */

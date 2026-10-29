@@ -37,7 +37,7 @@ harsh@harshjain:~/hands-on-list2$ gcc 34c.c -o fcntl
 harsh@harshjain:~/hands-on-list2$ ./fcntl
 
 Output - 
-      3      20     133
+      71      632     3502
 
 ============================================================================
 */

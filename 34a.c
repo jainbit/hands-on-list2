@@ -36,7 +36,9 @@ harsh@harshjain:~/hands-on-list2$ gcc 34a.c -o dup
 harsh@harshjain:~/hands-on-list2$ ./dup
 
 Output - 
-      3      20     131
+      73      650     3599
 
 ============================================================================
+// Uses pipe() and dup2() to redirect ls -l output to wc, 
+// counting its lines, words, and bytes.
 */

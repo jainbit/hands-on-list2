@@ -42,7 +42,7 @@ harsh@harshjain:~/hands-on-list2$ gcc 35.c -o dir
 harsh@harshjain:~/hands-on-list2$ ./dir
 
 Output - 
-      0       0       0
+      2       18      99
 
 ============================================================================
 */

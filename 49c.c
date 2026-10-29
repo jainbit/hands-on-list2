@@ -34,7 +34,7 @@ harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 49c.c -o semaphore
 harsh@harshjain:~/hands-on-list2$ ./semaphore
 pid 14484 waiting for a resource
-pid 14484 got a resource, free left: -1
+pid 14484 got a resource, free left: 2
 pid 14484 released the resource
 
 ============================================================================

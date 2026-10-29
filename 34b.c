@@ -34,7 +34,7 @@ harsh@harshjain:~/hands-on-list2$ gcc 34b.c -o dup2
 harsh@harshjain:~/hands-on-list2$ ./dup2
 
 Output -
-      3      20     132
+      72      641     3551
 
 ============================================================================
 */

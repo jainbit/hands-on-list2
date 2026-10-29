@@ -36,6 +36,7 @@ Sample Output :
 harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 43.c -o ipcs
 harsh@harshjain:~/hands-on-list2$ ./ipcs
+ipcs -q
 
 ============================================================================
 */

@@ -45,7 +45,7 @@ harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 51a.c -o socket
 harsh@harshjain:~/hands-on-list2$ ./socket
 Server waiting on port 8080
-.........................
+.........................                ./client 127.0.0.1 in 51b
 Client says : hello from client
 ============================================================================
 */

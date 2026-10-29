@@ -43,7 +43,7 @@ harsh@harshjain:~/hands-on-list2$ gcc 49b.c -o semaphore
 harsh@harshjain:~/hands-on-list2$ ./semaphore
 Waiting to enter critical section
 Inside critical section
-Shared memory: written by pid 13906
+Shared memory: written by pid 16267
 Left critical section
 
 ============================================================================

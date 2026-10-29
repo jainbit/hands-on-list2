@@ -28,5 +28,5 @@ harsh@harshjain:~/hands-on-list2$ gcc 37a.c -o fifo
 harsh@harshjain:~/hands-on-list2$ ./fifo
 
 ============================================================================
-*/c
+
 */

@@ -34,5 +34,7 @@ harsh@harshjain:~/hands-on-list2$ gcc 44b.c -o queue
 harsh@harshjain:~/hands-on-list2$ ./queue
 No message in queue
 
+ipcs -q
+ipcrm -q <msqid>
 ============================================================================
 */

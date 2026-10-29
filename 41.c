@@ -25,7 +25,7 @@ harsh@harshjain:~/hands-on-list2$ code .
 harsh@harshjain:~/hands-on-list2$ gcc 41.c -o queue
 harsh@harshjain:~/hands-on-list2$ ./queue
 
-Key: 0x61020a22
+Key: 0x61021895
 Message queue id: 0
 
 ============================================================================
